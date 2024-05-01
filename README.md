@@ -1,4 +1,4 @@
-# ![[tktk Module Name]](./assets/tktk-hero.png)
+# ![[tktk Module Name]](./assets/java-debugging-header.png)
 
 ## About
 
@@ -6,9 +6,7 @@ Gain the ability to set a breakpoint and examine the current state using sample 
 
 ## Prerequisites
 
-- tktk
-- tktk
-- tktk
+- None.
 
 # Content
 

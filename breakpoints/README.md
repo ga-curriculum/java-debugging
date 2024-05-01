@@ -1,4 +1,4 @@
-# ![[tktk Module Name] - tktk Microlesson Name](./assets/hero.png)
+# ![[tktk Module Name] - tktk Microlesson Name](./assets/breakpoint.png)
 
 **Learning objective:** By the end of this lesson, students will be able to set a breakpoint to examine the current state using sample code.
 
