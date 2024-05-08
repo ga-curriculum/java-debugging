@@ -12,9 +12,9 @@ Gain the ability to set a breakpoint and examine the current state using sample 
 
 | Lesson | Time | Learning Objectives |
 | ------ |:----------:|:------ |
-| [Stack Trace](./stack-trace/README.md) | 20 min | Analyze stack traces to identify common errors. |
+| [Stack Trace](./stack-trace/README.md) | 15 min | Analyze stack traces to identify common errors. |
 | [Breakpoints](./breakpoints/README.md) | 30 min | Set a breakpoint to examine the current state using sample code. |
-| **Total content**  | 50 min |  |
+| **Total content**  | 45 min |  |
 
 
 ## Internal resources
