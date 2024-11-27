@@ -1,13 +1,20 @@
-# ![[tktk Module Name]](../assets/java-debugging-header.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Debugging</span>
+</h1>
 
 ## About
 
-Gain the ability to set a breakpoint and examine the current state using sample code, identify lines within their application based on a stack trace, and explain the information conveyed by a stack trace.
+tktk Write a short but descriptive summary of the content in this module.
 
-# Content
+## Content
 
-| Lesson | Time | Learning Objectives |
-| ------ |:----------:|:------ |
+| Lesson | Est. Delivery Time | Skills |
+| ------ |:------------------:| ------ |
 | [Stack Trace](../stack-trace/README.md) | 25 min | Analyze stack traces to identify common errors. |
 | [Breakpoints](../breakpoints/README.md) | 35 min | Set a breakpoint to examine the current state using sample code. |
 | **Total content**  | 60 min |  |
+
+## References
+
+📖 [Reference Materials](../references/README.md)
