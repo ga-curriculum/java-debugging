@@ -12,8 +12,9 @@ tktk Write a short but descriptive summary of the content in this module.
 
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
-| [Stack Trace](../stack-trace/README.md) | 25 min | Analyze stack traces to identify common errors. |
-| [Breakpoints](../breakpoints/README.md) | 35 min | Set a breakpoint to examine the current state using sample code. |
+| [Setup](../setup/README.md) | 10 min | Set up the development environment. |
+| [Stack Trace](../stack-trace/README.md) | 20 min | Analyze stack traces to identify common errors. |
+| [Breakpoints](../breakpoints/README.md) | 30 min | Set a breakpoint to examine the current state using sample code. |
 | **Total content**  | 60 min |  |
 
 ## References
