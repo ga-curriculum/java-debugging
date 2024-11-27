@@ -1,26 +1,44 @@
-# ![[tktk Module Name]](./assets/java-debugging-header.png)
+<h1>
+  <span class="prefix"></span>
+  <span class="headline">Java Debugging</span>
+</h1>
 
 ## About
 
-Gain the ability to set a breakpoint and examine the current state using sample code, identify lines within their application based on a stack trace, and explain the information conveyed by a stack trace.
+tktk Write a short but descriptive summary of the content in this module.
 
-## Prerequisites
+## Content
 
-- None.
-
-# Content
-
-| Lesson | Time | Learning Objectives |
-| ------ |:----------:|:------ |
+| Lesson | Est. Delivery Time | Skills |
+| ------ |:------------------:| ------ |
 | [Stack Trace](./stack-trace/README.md) | 25 min | Analyze stack traces to identify common errors. |
 | [Breakpoints](./breakpoints/README.md) | 35 min | Set a breakpoint to examine the current state using sample code. |
-| **Total content**  | 60 min |  |
+| **Total content** | 1 hr |  |
 
+## References
 
-## Internal resources
+📖 [Reference Materials](./references/README.md)
+
+## Internal
+
+### Prerequisites
+
+None.
+
+### Course landing pages
+
+- [JCD - Java Career Development Program](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-debugging/canvas-landing-pages/jcd.html)
+- [JSC - Java Short Course](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-debugging/canvas-landing-pages/jsc.html)
+- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/java-debugging/canvas-landing-pages/fallback.html)
+
+### Resources
+
+✏️ [Instructor Guide](./internal-resources/instructor-guide.md)
+
+🎥 [Video Hub](./internal-resources/video-hub.md)
 
 🏗️ [Release Notes](./internal-resources/release-notes.md)
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/blob/main/module-feedback.md)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
