@@ -7,8 +7,8 @@
 
 Even the best programmers make mistakes when writing code. In computer programming, any mistake that causes the program to behave unexpectedly is called a *bug*. Bugs can cause a program execution to:
 
-- Run successfully but give undesired outputs (Logical errors)
-- Abruptly stop and throw an error message (Runtime errors or Exceptions).
+- Run successfully but give undesired outputs (logical errors).
+- Abruptly stop and throw an error message (runtime errors or exceptions).
 
 *Debugging* is the process of identifying and resolving errors in a computer program to ensure it operates correctly. Manually reviewing the code to locate the root cause of the bug, especially in programs with thousands of lines of code, is effort-intensive and impractical.
 
