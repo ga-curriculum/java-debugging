@@ -43,11 +43,16 @@ Exception in thread "main" java.lang.NullPointerException
     at com.intellij.rt.execution.application.AppMain.main(AppMain.java:144)
 ```
 
-While this might seem intimidating, we only need to focus on a few key parts. 
-1. The first is the top line, which tells us what the error actually was. This is the **exception message**. In this case, we got a `NullPointerException`, which is our **exception type**. In other words, our code tried to call a method on a variable that was null.
+While this might seem intimidating, we only need to focus on a few key parts.
+
+1. The first is the top line, which tells us what the error actually was. This is the **exception message**. In this case, we got a `NullPointerException`, which is our **exception type**.
+
+   In other words, our code tried to call a method on a null value.
 
 2. Next, concentrate on the lines that contain our file name (in this case, `Main.java`). This is called the **call stack trace**. It shows the path of execution for your program. Because the errors in the code are in the files we wrote, those are the lines we'll focus on. The higher up in the stack trace, the more recent the execution.
 
-3. In the top most line of our call stack is the call to `printSomething()` method. That's the last method call that happened in at line number 11 in our `Main.java` file. No method calls happened beyond that. We can be certain that the error is in one of the statements of this method. Below that we see that our `main` method was called at line number 7. That's where our program execution started. All the lines below that are a sequential summary of how our JVM (Java Virtual Machine) started the execution of our program.
+3. The call to the `printSomething()` method is the tops line of our call stack. That's the last method call that happened in line 11 of our `Main.java` file. No method calls happened beyond that. We can be sure that the error is in one of the statements of this method. Below, we see that our `main` method was called on line number 7. That's where our program execution started.
 
-From the call stack tracing activity, we can determine how far our program ran without exception, and narrow down the location and reason for the exception. 
+   All the lines below are a sequential summary of how our JVM (Java Virtual Machine) started executing our program.
+
+From the call stack tracing activity, we can determine how far our program ran without exception and narrow down the location and reason for the exception.
